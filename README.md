@@ -18,6 +18,7 @@ En etapas de predimensionamiento o diseño preliminar y evaluación de vulnerabi
     	  Predicción de deriva de entrepiso
       	Predicción de cortante en la base.
 ## Marco VDS (Predictibilidad, Computabilidad y Estabilidad)
-    -Predictibilidad. Se medirá el desempeño del modelo para predecir el índice de daño u la deriva máxima utilizando métricas de regresión.
-    -Computabilidad: Todo el flujo de trabajo será implementado a través de Python.
-    -Estabilidad: Se aplicará validación cruzada.
+  -Predictibilidad. Se medirá el desempeño del modelo para predecir el índice de daño u la deriva máxima utilizando métricas de regresión.
+  -Computabilidad: Todo el flujo de trabajo será implementado a través de Python.
+  -Estabilidad: Se aplicará validación cruzada.
+ 
