@@ -22,3 +22,5 @@ En etapas de predimensionamiento o diseño preliminar y evaluación de vulnerabi
   -Computabilidad: Todo el flujo de trabajo será implementado a través de Python.  
   -Estabilidad: Se aplicará validación cruzada.
  
+## Fuente
+    Pre-Earthquake Prediction Dataset
