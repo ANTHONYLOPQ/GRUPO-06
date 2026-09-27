@@ -10,15 +10,15 @@ En etapas de predimensionamiento o diseño preliminar y evaluación de vulnerabi
 ## Descripción del Dataset Seleccionado
   El trabajo utilizará un archivo que consta de 1000 registros numéricos de 26 variables los cuales se agrupan en:
     	-Acción sísmica y propiedades del terreno:
-        Aceleración espectral (Sa), PGA, PGV, PGD,Frecuencia de Onda (HZ), Magnitud del Sismo, Factor de amplificación de Sitio, Zona sísmica y tipo de suelo.
+        Aceleración espectral (Sa), PGA, PGV, PGD,Frecuencia de Onda (HZ), Magnitud del Sismo, Factor de amplificación de Sitio, Zona sísmica y tipo de suelo.  
       -Propiedades de la Edificación:
-        Altura, Número de pisos, Frecuencia de Onda, Amortiguamiento, Masas, Rigidez Axial, Rigidez a flexión, Tipo de Material, Tipo de Cimentación y sistema estructural.
+        Altura, Número de pisos, Frecuencia de Onda, Amortiguamiento, Masas, Rigidez Axial, Rigidez a flexión, Tipo de Material, Tipo de Cimentación y sistema estructural.  
      -Variables objetivo:
-    	  Predicción de Indice de daño (escala 0-1, variable continua principal para regresión).
-    	  Predicción de deriva de entrepiso
-      	Predicción de cortante en la base.
+    	  Predicción de Indice de daño (escala 0-1, variable continua principal para regresión).  
+    	  Predicción de deriva de entrepiso.  
+      	Predicción de cortante en la base.  
 ## Marco VDS (Predictibilidad, Computabilidad y Estabilidad)
-  -Predictibilidad. Se medirá el desempeño del modelo para predecir el índice de daño u la deriva máxima utilizando métricas de regresión.
-  -Computabilidad: Todo el flujo de trabajo será implementado a través de Python.
+  -Predictibilidad. Se medirá el desempeño del modelo para predecir el índice de daño u la deriva máxima utilizando métricas de regresión.  
+  -Computabilidad: Todo el flujo de trabajo será implementado a través de Python.  
   -Estabilidad: Se aplicará validación cruzada.
  
