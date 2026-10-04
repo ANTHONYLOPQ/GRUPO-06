@@ -2,6 +2,8 @@
 Trabajo escalonado Final - Grupo 06
 ## Integrantes:
 -ANTHONY LOPEZ QUISPE
+
+-MAX HOLGUINO ESPIRILLA
 ## Objetivo General:
 Predecir de manera automática el nivel de daño físico y las variables de respuesta sísmica de una edificación por medio de sus características dinámico-mecánicas.
 ## Problema de ingeniería estructural
