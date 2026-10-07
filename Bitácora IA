@@ -1,5 +1,5 @@
 #Prompts utilizados
--En el archivo Analisis_Exploratorio.ipynb genera el código que cargue el dataset de seismic_data.csv  
+-En el archivo Trabajo Final.ipynb genera el código que cargue el dataset de seismic_data.csv  
 -Genera el código que para visualizar las gráficas de características de distribución y objetivos.  
 -codifica las variables categóricas y escala las características numéricas  
 -define el campo de Predicted Damage Index como la variable objetivo.  
